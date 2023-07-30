@@ -1,0 +1,11 @@
+{
+    "name": {
+        "message": "New tab from search results"
+    },
+    "description": {
+        "message": "Open the Google search results link in a new tab."
+    },
+    "icon": {
+        "message": "About New tab from search results"
+    }
+}

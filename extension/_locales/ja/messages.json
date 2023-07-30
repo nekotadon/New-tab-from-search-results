@@ -1,0 +1,11 @@
+{
+    "name": {
+        "message": "New tab from search results"
+    },
+    "description": {
+        "message": "Google検索結果のリンクを新しいタブで開きます。"
+    },
+    "icon": {
+        "message": "New tab from search resultsについて"
+    }
+}
